@@ -1,0 +1,39 @@
+.edit1{
+    color:cadetblue;
+    margin-top:50px;
+    margin-left: 350px;
+}
+.edit2{
+    color:tomato;
+    margin-left:200px;
+}
+body{
+    background-color:white;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+}
+.edit4{
+    object-fit: cover;
+    height: 300px;
+    width: 300px;
+}
+.edit3{
+    margin-top:5rem;
+    gap: 2rem;
+}
+.edit5{
+    height: 300px;
+    width:600px;
+    object-fit: cover;
+}
+.edit6{
+    width:600px;
+    height:400px;
+    object-fit: cover;
+
+}
+.edit7{
+    width:600px;
+    height:400px;
+    object-fit: cover; 
+}

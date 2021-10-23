@@ -15,7 +15,7 @@ document.body.innerHTML=`
 
    async function getAllProducts() {
   
-     const data= await fetch("http://makeup-api.herokuapp.com/api/v1/products.json",
+     const data= await fetch("https://makeup-api.herokuapp.com/api/v1/products.json",
         {method:"GET"}
       );
         
